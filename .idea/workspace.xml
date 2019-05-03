@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c355f258-3633-4f5e-85ca-3521fbe3f74d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -174,7 +175,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="1095" />
+    <option name="height" value="1093" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -207,7 +208,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="Laravel.SettingsForm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -253,6 +254,9 @@
       <updated>1556901041693</updated>
       <workItem from="1556901044202" duration="5086000" />
       <workItem from="1556906429411" duration="2000" />
+      <workItem from="1556909103564" duration="620000" />
+      <workItem from="1556909759819" duration="85000" />
+      <workItem from="1556909861343" duration="205000" />
     </task>
     <task id="LOCAL-00001" summary="Initial laravel Setup">
       <created>1556904150191</created>
@@ -261,16 +265,23 @@
       <option name="project" value="LOCAL" />
       <updated>1556904150191</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial laravel Setup">
+      <created>1556909133569</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556909133569</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5088000" />
+    <option name="totallyTimeSpent" value="5998000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1093" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49848023" visible="true" weight="0.12939297" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49848023" visible="true" weight="0.13365282" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50151974" side_tool="true" weight="0.12832418" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -283,8 +294,8 @@
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.743344" visible="true" weight="0.32719836" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.25665602" side_tool="true" visible="true" weight="0.32719836" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.74121404" visible="true" weight="0.32719836" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.25878593" side_tool="true" visible="true" weight="0.32719836" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -295,6 +306,11 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/https:/github.com/st746/faq.git" />
+      <path value="$PROJECT_DIR$" />
+      <path value="https://github.com/st746/faq1" />
+    </ignored-roots>
     <MESSAGE value="Initial laravel Setup" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial laravel Setup" />
   </component>
